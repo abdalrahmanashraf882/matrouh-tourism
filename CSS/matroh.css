@@ -11,7 +11,7 @@
 
 @font-face{
     font-family: "Cairo",sans-serif;
-    src: url(../webfonts/Cairo-VariableFont_slnt\,wght.ttf);
+    src: url(webfonts/Cairo-VariableFont_slnt\,wght.ttf);
 }
 
 html{
@@ -256,7 +256,7 @@ button{
 /* landing-page start */
 .landing-page{
     min-height: 100vh;
-    background-image: url(/images/oasissiwah.jpeg);
+    background-image: url(images/oasissiwah.jpeg);
     background-size: cover;
     position: relative;
 }
@@ -687,6 +687,7 @@ button{
     .header-area .toggle-menu {
         display: inline-block;
     }
+
 
 
 }
